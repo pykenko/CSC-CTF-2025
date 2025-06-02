@@ -5,7 +5,7 @@
 | Thorough Through Trophies | Misc                | ?          |
 | Me Dumb Dumb              | Misc                | ?          |
 | [loggg](/Forensic/loggg)                     | Forensic            | Warmup     |
-| Kawat Hiu                 | Forensic            | 1/10       |
+| [Kawat Hiu](/Forensic/Kawat%20Hiu)                 | Forensic            | 1/10       |
 | Skibidi Invasion          | Forensic            | 2.5/10     |
 | Last Message              | Forensic            | ?          |
 | Alice in Zipland          | Forensic            | 2/10       |
