@@ -39,8 +39,8 @@ Welcome to the my write-up for the **CSC CTF**, created and hosted by our belove
 ## 📌 Overview
 
 **Event Name:** CSC CTF  
-**Date:** 1/6/2025
-**Hosted by:** CSC - Universitas Bina Nusantara
+**Date:** 1/6/2025                                
+**Hosted by:** CSC - Universitas Bina Nusantara                          
 **Difficulty Range:** Newbie → Beginner  
 **Total Challenges:** 29 challenges across 6 categories
 
