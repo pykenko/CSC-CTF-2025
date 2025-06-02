@@ -28,7 +28,7 @@
 | mikumiki                  | Binary Exploitation | Warmup     |
 | Holo2win                  | Binary Exploitation | 2/10       |
 | Biawak cafe               | Binary Exploitation | ?          |
-| Sanity Check              | Welcome             | 0/10       |
+| [Sanity Check](/Welcome/Sanity Check)              | Welcome             | 0/10       |
 
 # CSC CTF — Auric's Writeup
 
