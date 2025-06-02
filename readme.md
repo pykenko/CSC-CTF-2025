@@ -1,7 +1,7 @@
 | Challenge Name            | Category            | Difficulty |
 |---------------------------|---------------------|------------|
 | [Misc Warmup](/Misc/Misc%20Warmup)               | Misc                | Warmup     |
-| The Chest Boards Treasure | Misc                | 1/10       |
+| [The Chest Boards Treasure](/Misc/The%20Chest%20Boards%20Treasure) | Misc                | 1/10       |
 | Thorough Through Trophies | Misc                | ?          |
 | Me Dumb Dumb              | Misc                | ?          |
 | [loggg](/Forensic/loggg)                     | Forensic            | Warmup     |
