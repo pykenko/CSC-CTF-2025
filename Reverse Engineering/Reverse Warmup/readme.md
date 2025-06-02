@@ -1,5 +1,11 @@
 ![alt text](image.png)
 
+What you need to solve :
+- Basic knowledge of code
+- Basic knowledge of ascii
+
+---
+
 Starting off our warmup of our loved reverse engineering we shall download the file first.
 
 ![alt text](image-1.png)
