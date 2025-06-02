@@ -14,8 +14,8 @@
 | [Baby Substituion](/Cryptography/Baby%20Substituion)          | Cryptography        | 1/10       |
 | [Aurichia-Docs](/Cryptography/Aurichia-Docs)             | Cryptography        | 2/10       |
 | [MY encryption](/Cryptography/MY%20encryption)             | Cryptography        | 3/10       |
-| The Secret of Sepuh       | Cryptography        | 2/10       |
-| Aurichia-Doom             | Cryptography        | 4/10       |
+| [The Secret of Sepuh](/Cryptography/The%20Secret%20of%20Sepuh)       | Cryptography        | 2/10       |
+| [Aurichia-Doom](/Cryptography/Aurichia-Doom)             | Cryptography        | 4/10       |
 | [Reverse Warmup](/Reverse%20Engineering/Reverse%20Warmup)            | Reverse Engineering | Warmup     |
 | Sigma Checker             | Reverse Engineering | 1/10       |
 | Broken Mario              | Reverse Engineering | 3/10       |

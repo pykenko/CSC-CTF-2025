@@ -1,12 +1,10 @@
-
+![alt text](image.png)
 
 What you need to solve :
 - Basic concept of AES-CTR
 - Basic concept of xor
 
 ---
-
-![alt text](image.png)
 
 So this is a classic AES-CTR problem, the problem is because we can encrypt anything ourselves we can actually recover the actual flag value.
 
