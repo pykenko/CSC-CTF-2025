@@ -7,8 +7,8 @@
 | [loggg](/Forensic/loggg)                     | Forensic            | Warmup     |
 | [Kawat Hiu](/Forensic/Kawat%20Hiu)                 | Forensic            | 1/10       |
 | [Skibidi Invasion](/Forensic/Skibidi%20Invasion)          | Forensic            | 1.5/10     |
-| Last Message              | Forensic            | ?          |
-| Alice in Zipland          | Forensic            | 2/10       |
+| [Last Message](/Forensic/Last%20Message)              | Forensic            | 2/10       |
+| [Alice in Zipland](/Forensic/Alice%20in%20Zipland)          | Forensic            | 2/10       |
 | Adit's memory             | Forensic            | ?          |
 | [data breach](/Cryptography/data%20breach)               | Cryptography        | Warmup     |
 | [Baby Substituion](/Cryptography/Baby%20Substituion)          | Cryptography        | 1/10       |
