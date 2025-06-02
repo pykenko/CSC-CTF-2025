@@ -30,3 +30,33 @@
 | Biawak cafe               | Binary Exploitation | ?          |
 | Sanity Check              | Welcome             | 0/10       |
 
+# CSC CTF — Auric's Writeup
+
+Welcome to the my write-up for the **CSC CTF**, created and hosted by our beloved CSC. This document covers selected challenges, their solutions, and brief explanations of the thought processes behind them.
+
+---
+
+## 📌 Overview
+
+**Event Name:** CSC CTF  
+**Date:** 1/6/2025
+**Hosted by:** CSC - Universitas Bina Nusantara
+**Difficulty Range:** Newbie → Beginner  
+**Total Challenges:** 29 challenges across 6 categories
+
+---
+
+## 🗂️ Categories
+
+- Reverse Engineering  
+- Cryptography  
+- Web Exploitation  
+- Miscellaneous  
+- Forensics
+- Binary Exploitation
+
+---
+
+## 🏁 Flag Format
+
+All flags follow the format:  CSC{.*}
