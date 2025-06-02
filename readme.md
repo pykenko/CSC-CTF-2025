@@ -17,7 +17,7 @@
 | [The Secret of Sepuh](/Cryptography/The%20Secret%20of%20Sepuh)       | Cryptography        | 2/10       |
 | [Aurichia-Doom](/Cryptography/Aurichia-Doom)             | Cryptography        | 4/10       |
 | [Reverse Warmup](/Reverse%20Engineering/Reverse%20Warmup)            | Reverse Engineering | Warmup     |
-| Sigma Checker             | Reverse Engineering | 1/10       |
+| [Sigma Checker](/Reverse%20Engineering/Sigma%20Checker)             | Reverse Engineering | 1/10       |
 | Broken Mario              | Reverse Engineering | 3/10       |
 | Free Bobux?!              | Reverse Engineering | 2.5/10     |
 | [ifest13](/Web%20Exploitation/ifest13)                   | Web Exploitation    | Warmup     |
