@@ -1,1 +1,1 @@
-![Sanity Check](z/sanitycheck.png)
+![Sanity Check](/z/sanitycheck.png)
