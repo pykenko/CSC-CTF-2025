@@ -18,12 +18,12 @@
 | [Aurichia-Doom](/Cryptography/Aurichia-Doom)             | Cryptography        | 4/10       |
 | [Reverse Warmup](/Reverse%20Engineering/Reverse%20Warmup)            | Reverse Engineering | Warmup     |
 | [Sigma Checker](/Reverse%20Engineering/Sigma%20Checker)             | Reverse Engineering | 1/10       |
-| Broken Mario              | Reverse Engineering | 3/10       |
+| [Broken Mario](/Reverse%20Engineering/Broken%20Mario)              | Reverse Engineering | 3/10       |
 | Free Bobux?!              | Reverse Engineering | 2.5/10     |
 | [ifest13](/Web%20Exploitation/ifest13)                   | Web Exploitation    | Warmup     |
-| My Secure Basement        | Web Exploitation    | 2/10       |
+| [My Secure Basement](/Web%20Exploitation/My%20Secure%20Basement)        | Web Exploitation    | 2/10       |
 | Vibe Lottery              | Web Exploitation    | ?          |
-| Owen Favorite Site        | Web Exploitation    | 2.5/10     |
+| [Owen Favorite Site](/Web%20Exploitation/Owen%20Favourite%20Site)        | Web Exploitation    | 2.5/10     |
 | Very Secure Site          | Web Exploitation    | 6/10       |
 | [mikumiki](/Binary%20Exploitation/mikumiki)                  | Binary Exploitation | Warmup     |
 | Holo2win                  | Binary Exploitation | 2/10       |
