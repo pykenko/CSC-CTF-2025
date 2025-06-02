@@ -10,7 +10,7 @@
 | Last Message              | Forensic            | ?          |
 | Alice in Zipland          | Forensic            | 2/10       |
 | Adit's memory             | Forensic            | ?          |
-| data breach               | Cryptography        | Warmup     |
+| [data breach](/Cryptography/data%20breach)               | Cryptography        | Warmup     |
 | [Baby Substituion](/Cryptography/Baby%20Substituion)          | Cryptography        | 1/10       |
 | [Aurichia-Docs](/Cryptography/Aurichia-Docs)             | Cryptography        | 2/10       |
 | [MY encryption](/Cryptography/MY%20encryption)             | Cryptography        | 3/10       |
