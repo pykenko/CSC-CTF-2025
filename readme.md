@@ -26,7 +26,7 @@
 | [Owen Favorite Site](/Web%20Exploitation/Owen%20Favourite%20Site)        | Web Exploitation    | 2.5/10     |
 | Very Secure Site          | Web Exploitation    | 6/10       |
 | [mikumiki](/Binary%20Exploitation/mikumiki)                  | Binary Exploitation | Warmup     |
-| Holo2win                  | Binary Exploitation | 2/10       |
+| [Holo2win](/Binary%20Exploitation/holo2win)                  | Binary Exploitation | 2/10       |
 | Biawak cafe               | Binary Exploitation | ?          |
 | [Sanity Check](/Welcome/Sanity%20Check)              | Welcome             | 0/10       |
 
